@@ -1,6 +1,6 @@
 ## google-dataproc-job-cost-estimator
 
- `google-dataproc-job-cost-estimator` is a basic Python script that determines the cost of Hadoop/Spark jobs run on a **Google Cloud Platform Dataproc** instance. This is a naive script that doesn't account for multi-tenant applications. I have used this script successfully with my **Airflow** tasks.
+ `google-dataproc-job-cost-estimator` calculates the cost of Hadoop/Spark jobs run on a **Google Cloud Platform Dataproc** instance. This is a naive approach that doesn't account for multi-tenant applications. I have used this script successfully with my **Airflow** tasks.
   
 ## Requirements
 
